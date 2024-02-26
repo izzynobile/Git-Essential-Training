@@ -1,2 +1,2 @@
 # Git-Essential-Training
-Git Essential Training, LinKedIn Learning, WGU D197
+Git Essential Training, LinkedIn Learning, WGU D197
